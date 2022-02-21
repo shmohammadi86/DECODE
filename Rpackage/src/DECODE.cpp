@@ -1,8 +1,6 @@
 #include <DECODE.h>
 #include <RcppArmadillo.h>
 
-// [[Rcpp::plugins(openmp)]]
-
 using namespace Rcpp;
 using namespace arma;
 
